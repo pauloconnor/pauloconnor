@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm a Site Reliability Engineer, who is more interested in writing tools to make engineers' lives easier, than worrying about how the website is running. Automation of repetitive tasks and runbooks are a passion - if the server can fix itself, why page a human?
+
+- 🔭 I’m currently working on Puppet automation and deployment pipeline
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pauldoconnor/)
+- 💬 Ask me about [DevOps Ireland](https://www.meetup.com/DevOps-Ireland/) and Puppet
+
 
 <!--
 **pauloconnor/pauloconnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
